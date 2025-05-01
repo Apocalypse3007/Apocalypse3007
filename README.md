@@ -1,5 +1,5 @@
 # Hi there, I'm Anany Singh! 
-**Software Engineer | Open Source Enthusiast | Machine learning enthusiast **
+Software Engineer | Open Source Enthusiast | Machine learning enthusiast 
 
 ## About me
 
